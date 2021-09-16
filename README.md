@@ -5,7 +5,7 @@ The code in this repository is a tool that can help German learners to find simp
 
 Institut für Deutsche Sprache (2014): Korpusbasierte
 Wortformenliste DeReWo, DeReKo-2014-II-MainArchive-STT.100000,
-http://www.ids-mannheim.de/derewo, Institut für Deutsche Sprache,
+https://www.ids-mannheim.de/digspra/kl/projekte/methoden/derewo/, Institut für Deutsche Sprache,
 Programmbereich Korpuslinguistik, Mannheim, Deutschland
 
 which is found in the file wordfreq.tsv. More information about the source in the wordfreq.readme file.
