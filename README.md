@@ -112,3 +112,9 @@ I have used the code to rank some songs according to the difficulty of their voc
 1. Augenbling by Seeed
 1. Nummer 1 by Zuna feat. Azet & Noizy!
 
+# How to make your own ranking?
+1. Download the repository
+2. Install the software listed in requirements.txt
+3. Input Songtitle, Artist, and Lyrics of the songs you are interested in into the /data/input.xlsx file.
+4. Run /model/model.py
+5. Checkout the results in /model/results.xlsx - the higher the score, the easier the vocab!
